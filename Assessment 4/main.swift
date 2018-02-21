@@ -28,9 +28,12 @@ intArray.remove(at: 0)
 //c. Append new elements to the array, the integers 11 and 12, and print out the array after.
 
 //intArray.append(contentsOf: 11)
+intArray.append(11)
+intArray.append(12)
 
 
 //d. Print out the number of items in the intArray.
+print(intArray)
 print(intArray)
 
 
